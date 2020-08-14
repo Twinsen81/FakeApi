@@ -1,0 +1,31 @@
+{
+  "isAttachedToOutlet": {
+    "isAttached": true
+  },
+  "attachDevice": {
+    "result": "ok"
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "phone": "+78765456678",
+      "amount": 125,
+      "time": "10:13",
+      "bankIcon": "tink"
+    },
+    {
+      "id": 2,
+      "phone": "+71205451234",
+      "amount": 654,
+      "time": "14:43",
+      "bankIcon": "alfa"
+    },
+    {
+      "id": 3,
+      "phone": "+76545459876",
+      "amount": 12,
+      "time": "16:23",
+      "bankIcon": "modul"
+    }
+  ]
+}
