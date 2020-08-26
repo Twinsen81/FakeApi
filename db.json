@@ -1,6 +1,6 @@
 {
   "isAttachedToOutlet": {
-    "isAttached": false
+    "isAttached": true
   },
   "attachDevice": {
     "result": "ok"
