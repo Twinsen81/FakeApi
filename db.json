@@ -1,9 +1,17 @@
 {
-  "isAttachedToOutlet": {
-    "isAttached": false
+  "authorization": {
+    "refreshToken": "xyz-refresh-token"
   },
-  "attachDevice": {
-    "result": "ok"
+  "accessToken": {
+    "accessToken": {
+      "token": "abc-access-token",
+      "expiresIn": 20000
+    },
+    "retailPoint": {
+      "brandName": "Автосервис у Ашота",
+      "address": "Уфа, Черняга",
+      "mcc": "Автоуслуги (666)" 
+    }
   },
   "transactions": [
     {
