@@ -19,7 +19,7 @@
   "payload": "https://qr.nspk.ru/AS1000670LSS7DN18SJQDNP4B05KLJL2?type=01&bank=100000000001&sum=134050&cur=RUB&crc=C08B"
   },
   
-  "/int/balance": {
+  "int/balance": {
     "balance": 235050
   },
   
