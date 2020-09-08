@@ -23,27 +23,33 @@
     "balance": 235050
   },
   
-  "transactions": [
-    {
-      "id": 1,
-      "phone": "+78765456678",
-      "amount": 125,
-      "time": "10:13",
-      "bankIcon": "tink"
-    },
-    {
-      "id": 2,
-      "phone": "+71205451234",
-      "amount": 654,
-      "time": "14:43",
-      "bankIcon": "alfa"
-    },
-    {
-      "id": 3,
-      "phone": "+76545459876",
-      "amount": 12,
-      "time": "16:23",
-      "bankIcon": "modul"
-    }
-  ]
+  "int-list": {
+    "items": [
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1069",
+            "bankType": "Tinkoff",
+            "phone": "+7 *** *** 67 87",
+            "amount": 4833, // сумма в копейках
+            "date": "2020-12-13T10:00:30",
+            "type": "credit"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1070",
+            "bankType": "Alfa",
+            "phone": "+7 *** *** 99 12",
+            "amount": 84390, // сумма в копейках
+            "date": "2020-03-15T09:09:09",
+            "type": "debet"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1071",
+            "bankType": "Tinkoff",
+            "phone": "+7 *** *** 00 01",
+            "amount": 455, // сумма в копейках
+            "date": "2019-11-26T11:16:28",
+            "type": "credit"
+        }      
+    ],
+    "next": "7a83b384-e55d-4a2a-846c-e6258874d080"
+}
 }
