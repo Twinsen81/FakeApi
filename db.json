@@ -29,7 +29,7 @@
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1069",
             "bankType": "Tinkoff",
             "phone": "+7 *** *** 67 87",
-            "amount": 4833, // сумма в копейках
+            "amount": 4833,
             "date": "2020-12-13T10:00:30",
             "type": "credit"
         },
@@ -37,7 +37,7 @@
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1070",
             "bankType": "Alfa",
             "phone": "+7 *** *** 99 12",
-            "amount": 84390, // сумма в копейках
+            "amount": 84390,
             "date": "2020-03-15T09:09:09",
             "type": "debet"
         },
@@ -45,7 +45,7 @@
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1071",
             "bankType": "Tinkoff",
             "phone": "+7 *** *** 00 01",
-            "amount": 455, // сумма в копейках
+            "amount": 455,
             "date": "2019-11-26T11:16:28",
             "type": "credit"
         }      
