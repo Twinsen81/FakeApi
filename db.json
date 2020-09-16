@@ -64,7 +64,48 @@
             "amount": 59011,
             "date": "2020-08-24T11:16:28",
             "type": "debit"
-        }       
+        },
+      
+      {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1074",
+            "bankType": "Tinkoff",
+            "phone": "+7 *** *** 17 17",
+            "amount": 2333,
+            "date": "2020-08-24T10:00:30",
+            "type": "credit"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1075",
+            "bankType": "Alfa",
+            "phone": "+7 *** *** 99 66",
+            "amount": 390,
+            "date": "2020-08-16T09:09:09",
+            "type": "debet"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1076",
+            "bankType": "Tinkoff",
+            "phone": "+7 *** *** 00 55",
+            "amount": 1455,
+            "date": "2020-08-15T11:16:28",
+            "type": "credit"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1077",
+            "bankType": "Uralsib",
+            "phone": "+7 *** *** 23 00",
+            "amount": 587,
+            "date": "2020-07-26T11:16:28",
+            "type": "credit"
+        },
+        {
+            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1078",
+            "bankType": "Sber",
+            "phone": "+7 *** *** 13 12",
+            "amount": 511,
+            "date": "2020-07-24T11:16:28",
+            "type": "credit"
+        }  
     ],
     "next": "7a83b384-e55d-4a2a-846c-e6258874d080"
 }
