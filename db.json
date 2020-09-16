@@ -55,7 +55,7 @@
             "phone": "+7 *** *** 23 23",
             "amount": 5,
             "date": "2020-08-26T11:16:28",
-            "type": "debit"
+            "type": "debet"
         },
         {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1073",
@@ -63,7 +63,7 @@
             "phone": "+7 *** *** 13 21",
             "amount": 59011,
             "date": "2020-08-24T11:16:28",
-            "type": "debit"
+            "type": "debet"
         },
         {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1074",
@@ -127,7 +127,7 @@
             "phone": "+7 *** *** 23 93",
             "amount": 566,
             "date": "2020-05-26T11:16:28",
-            "type": "debit"
+            "type": "debet"
         },
         {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1083",
@@ -135,7 +135,7 @@
             "phone": "+7 *** *** 13 81",
             "amount": 11,
             "date": "2020-05-24T11:16:28",
-            "type": "debit"
+            "type": "debet"
         },
       {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1074",
