@@ -83,30 +83,6 @@
             "type": "credit"
         },
         {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1076",
-            "bankType": "Tinkoff",
-            "phone": "+7 *** *** 00 55",
-            "amount": 1455,
-            "date": "2020-08-15T11:16:28",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1077",
-            "bankType": "Uralsib",
-            "phone": "+7 *** *** 23 00",
-            "amount": 587,
-            "date": "2020-07-26T11:16:28",
-            "type": "credit"
-        },
-        {
-            "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1078",
-            "bankType": "Sber",
-            "phone": "+7 *** *** 13 12",
-            "amount": 511,
-            "date": "2020-07-24T11:16:28",
-            "type": "credit"
-        },
-        {
             "transactionId": "5c5aef1b-477f-48a9-a17d-abc900de1080",
             "bankType": "Alfa",
             "phone": "+7 *** *** 99 02",
